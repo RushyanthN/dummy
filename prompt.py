@@ -6,7 +6,7 @@ def open_file(corpus):
 
 
 def report_count(token):
-    text = open_file('coupus.txt')
+    text = open_file('corpus.txt')
     count=0
     for line in text:
         for word in line.split():
