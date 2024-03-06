@@ -1,0 +1,9 @@
+This curriculum follows a top-down approach — code first, theory later.
+
+I like to learn out of necessity. So, if I have to figure out something, a problem to solve, or a prototype to make, I will reach far and wide for the information I need, study, make sense of it, and then act on it.
+
+For example, I aim to be an AI engineer who understands LLMs at a fundamental level, which involves having the skill to code transformers from scratch and fine-tuning LLMs on GPUs, etc. I can’t do that now because there are gaps in my knowledge, and I aim to fill in those gaps.
+
+It is also NLP-focused; if you’re looking for other AI specializations like computer vision or reinforcement learning, comment below or DM me on Twitter or Linkedin. I will pass you some recommendations.
+
+Before I dump a bunch of links on you, I wish somebody had told me two important things before I started learning anything.
