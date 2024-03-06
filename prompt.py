@@ -13,3 +13,4 @@ def report_count(token):
             if word == token:
                 count+=1
     return count
+    print(f"The term {token} shows up in the corpus{count} times.")
