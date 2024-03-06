@@ -1,6 +1,6 @@
 def open_file(corpus):
     with open(corpus, 'r') as file:
-        contents = file.read_lines()
+        contents = file.readlines()
     return contents
 
 
