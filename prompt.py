@@ -10,6 +10,6 @@ def report_count(token):
     count=0
     for line in text:
         for word in line.split():
-            if word == token
-            count+=1
+            if word == token:
+                count+=1
     return count
