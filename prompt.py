@@ -12,5 +12,5 @@ def report_count(token):
         for word in line.split():
             if word == token:
                 count+=1
-    return print(f"The term {token} shows up in the corpus{count} times.")
+    return print(f"The term {token} shows up in the corpus {count} times.")
     
